@@ -1,0 +1,1 @@
+UPDATE users SET DATETIMEp = 'july 12th' WHERE username = 'Alex2';
